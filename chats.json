@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1723927015659,
+    "username": "Usuario1",
+    "message": "Este es un mensaje de prueba",
+    "timestamp": "2024-08-17T20:36:55.659Z"
+  },
+  {
+    "id": 1723928352071,
+    "username": "Usuario2",
+    "message": "Este es un mensaje de prueba número 2",
+    "timestamp": "2024-08-17T20:59:12.071Z"
+  },
+  {
+    "id": 1723928354247,
+    "username": "Usuario2",
+    "message": "Este es un mensaje de prueba número 2",
+    "timestamp": "2024-08-17T20:59:14.247Z"
+  }
+]
